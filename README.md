@@ -1,7 +1,10 @@
 # hello-world
 Hello World!
 
-Josh here.  I am currently learning Software Development at Western Governors University.  I have also done some work through FreeCodeCamp learning Full Stack Web Development.
+Contact me:
+jshepherd1990@gmail.com
+
+Josh, here!  I am currently learning Software Development at Western Governors University.  I have also done some work through FreeCodeCamp learning Full Stack Web Development.
 
 Java is my first language, but I have also worked with the following:
   - HTML5/CSS3

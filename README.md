@@ -11,6 +11,7 @@ Java is my first language, but I have also worked with the following:
   - HTML5/CSS3
   - JavaScript
   - C++
+  - C#
   - SQL
   - Python
 
